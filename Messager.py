@@ -1,7 +1,7 @@
 import requests
 import time
 
-DISCORD_AUTH_TOKEN = "MTIxNzY3MTE3MTA4MDcxNjM1OQ.GdjCo3.tqza2u7Leyn4umJ7JTNkfLhQXigOD_nAdOjcm8"
+DISCORD_AUTH_TOKEN = ""
 
 CHANNEL_ID = input("Id Of Channel You Wish To Send Messages Too: ")
 MESSAGE = input("Enter The Message You Wish to Send: ")
